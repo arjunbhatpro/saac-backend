@@ -1,6 +1,7 @@
 flask
 flask-cors
-python-dotenv
 pyjwt
+python-dotenv
 reportlab
 gunicorn
+cryptography
