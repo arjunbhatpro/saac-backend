@@ -135,7 +135,7 @@ def create_invoice(order):
     c.setFillColor("#555555")
 
     c.setFont("Noto", 12)
-    c.drawCentredString(width/2, 65, "Mahalasa Home Products — Kundapura")
+    c.drawCentredString(width/2, 65, "Mahalasa Home Products — Balehonnuru")
 
     c.setFont("Noto", 9)
     c.drawCentredString(
@@ -144,7 +144,7 @@ def create_invoice(order):
         "Thank you for your Business! We look forward to working with you again."
     )
 
-    c.drawCentredString(width/2, 32, "Contact: +91 9448657267 | Instagram: @mahalasahomeproducts")
+    c.drawCentredString(width/2, 32, "Contact: +91 9448657267 | Instagram: @mahalasahome | Name: Arjun Bhat B S ")
     c.drawCentredString(width/2, 18, "© 2026 Mahalasa Home Products")
 
     c.save()
